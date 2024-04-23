@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_dir_c26c25fe42176abc28383d0fd0db9416" xml:lang="en-US">
+<title>docs-Roman30k-master/src Directory Reference</title>
+<indexterm><primary>docs-Roman30k-master/src Directory Reference</primary></indexterm>
+<simplesect>
+    <title>Directories    </title>
+        <itemizedlist>
+            <listitem><para>directory <link linkend="_dir_6e81f1bb151c4e6289a0dc48a64f1264">domain</link></para>
+</listitem>
+            <listitem><para>directory <link linkend="_dir_4e4a1d7cc14b9d54ac0f3c4ff2f46054">test</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+</section>
